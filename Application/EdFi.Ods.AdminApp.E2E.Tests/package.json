@@ -3,7 +3,7 @@
     "@cucumber/cucumber": "^10.0.1",
     "chromedriver": "^121.0.0",
     "dotenv": "^16.0.1",
-    "playwright": "^1.24.2"
+    "playwright": "^1.55.1"
   },
   "description": "Playwright end-to-end test automation for Admin App. Using Commonjs, Cucumber and Assert.",
   "devDependencies": {
