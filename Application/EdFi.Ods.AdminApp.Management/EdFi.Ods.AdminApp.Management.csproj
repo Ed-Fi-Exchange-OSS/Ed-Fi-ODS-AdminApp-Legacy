@@ -11,8 +11,8 @@
     <PackageReference Include="AspNetCore.HealthChecks.SqlServer" Version="9.0.0" />
     <PackageReference Include="AutoMapper" Version="14.0.0" />
     <PackageReference Include="Dapper" Version="2.1.66" />
-    <PackageReference Include="dbup-core" Version="6.0.15" />
-    <PackageReference Include="dbup-postgresql" Version="6.1.5" />
+    <PackageReference Include="dbup-core" Version="6.1.1" />
+    <PackageReference Include="dbup-postgresql" Version="7.0.1" />
     <PackageReference Include="dbup-sqlserver" Version="6.0.16" />
     <PackageReference Include="EdFi.SecurityCompatiblity53.DataAccess" Version="5.4.1">
       <Aliases>SecurityCompatiblity53</Aliases>
@@ -25,7 +25,7 @@
     <PackageReference Include="Microsoft.Extensions.Caching.Memory" Version="9.0.11" />
     <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="9.0.4" />
     <PackageReference Include="NJsonSchema" Version="11.5.2" />
-    <PackageReference Include="Npgsql" Version="9.0.4" />
+    <PackageReference Include="Npgsql" Version="10.0.1" />
     <PackageReference Include="RestSharp" Version="112.1.0" />
     <PackageReference Include="Microsoft.AspNetCore.DataProtection.EntityFrameworkCore" Version="8.0.22" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.22" />
