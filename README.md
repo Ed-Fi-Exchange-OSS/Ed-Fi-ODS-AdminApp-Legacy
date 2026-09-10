@@ -1,9 +1,8 @@
-# Ed-Fi-ODS-AdminApp
+# Ed-Fi-ODS-AdminApp-Legacy
 
 > [!WARNING]
 > Formal support for this legacy application ended on June 30, 2026: see the [announcement](https://docs.ed-fi.org/reference/roadmap/notifications/admin-app-to-community-tools) for more information.
 > The legacy "ODS Admin App" has been replaced by the new Ed-Fi Admin App v4 ([docs](https://docs.ed-fi.org/reference/admin-app/), [code](https://github.com/Ed-Fi-Alliance-OSS/Ed-Fi-AdminApp)), suitable for use with Ed-Fi ODS/API versions 6 and 7 as well as the new Ed-Fi API version 8+.
-
 
 The Ed-Fi ODS/API Admin App is a web-based administrative interface
 for the Ed-Fi ODS/API. The Admin App is available as a standalone application
@@ -11,40 +10,12 @@ for installation on-premises or in the cloud.
 
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/Ed-Fi-Alliance-OSS/Ed-Fi-ODS-AdminApp/badge)](https://securityscorecards.dev/viewer/?uri=github.com/Ed-Fi-Alliance-OSS/Ed-Fi-ODS-AdminApp)
 
-For more information, see:
-
-* For a detailed description see [ODS/API Admin
-  App](https://techdocs.ed-fi.org/pages/viewpage.action?pageId=53773581) in Tech
-  Docs.
-* [How to Submit an
-  Issue](https://techdocs.ed-fi.org/display/ETKB/How+To%3A+Submit+an+Issue)
-* [How Submit a Feature
-  Request](https://techdocs.ed-fi.org/display/ETKB/How+To%3A+Submit+a+Feature+Request)
-* Review on-going development work at
-  [Tracker](https://tracker.ed-fi.org/issues/?filter=14106)
-
-## Install Instructions
-
-See [Tech Docs: Admin
-App](https://techdocs.ed-fi.org/display/EDFITOOLS/Admin+App) for general
-information on installation of the Ed-Fi ODS Admin App.
+For a detailed description and installation instructions, see the [ODS Admin App](https://docs.ed-fi.org/getting-started/community-tools/technology/ods-admin-app/) documentation
 
 ## Developer Documentation
 
 * [Admin App Developer Instructions](docs/developer.md)
 * [Cloud ODS Debugging](docs/cloudods-debugging.md)
-
-## Contributing
-
-The Ed-Fi Alliance welcomes code contributions from the community. Please read
-the [Ed-Fi Contribution
-Guidelines](https://techdocs.ed-fi.org/display/ETKB/Code+Contribution+Guidelines)
-for detailed information on how to contribute source code.
-
-Looking for an easy way to get started? Search for tickets with label
-"up-for-grabs" in [Tracker](https://tracker.ed-fi.org/issues/?filter=14106);
-these are nice-to-have but low priority tickets that should not require in-depth
-knowledge of the code base and architecture.
 
 ## Legal Information
 
