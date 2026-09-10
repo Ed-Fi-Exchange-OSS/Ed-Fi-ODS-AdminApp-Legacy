@@ -1,5 +1,10 @@
 # Ed-Fi-ODS-AdminApp
 
+> [!WARNING]
+> Formal support for this legacy application ended on June 30, 2026: see the [announcement](https://docs.ed-fi.org/reference/roadmap/notifications/admin-app-to-community-tools) for more information.
+> The legacy "ODS Admin App" has been replaced by the new Ed-Fi Admin App v4 ([docs](https://docs.ed-fi.org/reference/admin-app/), [code](https://github.com/Ed-Fi-Alliance-OSS/Ed-Fi-AdminApp)), suitable for use with Ed-Fi ODS/API versions 6 and 7 as well as the new Ed-Fi API version 8+.
+
+
 The Ed-Fi ODS/API Admin App is a web-based administrative interface
 for the Ed-Fi ODS/API. The Admin App is available as a standalone application
 for installation on-premises or in the cloud.
